@@ -38,5 +38,6 @@
 
 ![Consulta completa](img/Capturadepantalla.png)
 
-autor: Elkin Stiven Contreras Rojas
+autor: David Felipe Perdomo Castillo
+
 
